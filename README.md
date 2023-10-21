@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilson-okwiri.
 - 👀 I’m interested in informantion technology.
 - 🌱 I’m currently learning bachelor in bussiness informantion technology.
-- 💞️ I’m looking to collaborate on informantion technology.
+- 💞️ I’m looking to collaborate on computer science.
 - 📫 How to reach me epichegriffins037@gmail.com.
 
 <!---
